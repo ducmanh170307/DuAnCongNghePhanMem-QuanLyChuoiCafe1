@@ -9,7 +9,7 @@ Hiện tại Repository đã được khởi tạo **Bộ khung lõi (Core Frame
 
 | Thành viên | Vai trò | Phân hệ phụ trách | Các file cần tải lên GitHub | Trạng thái |
 | :--- | :--- | :--- | :--- | :---: |
-| **1. Trần Đức Mạnh** | Nhóm trưởng | **Luuong 0 & 1:** Chuỗi Chi Nhánh, Phân Ca & Chấm Công + Khung Hệ Thống | `config/db.js`, `server.js`, `index.html`<br>`models/branchModel.js`, `models/hrModel.js`<br>`controllers/branchController.js`, `controllers/hrController.js`<br>`routes/branchRoutes.js`, `routes/hrRoutes.js` | ✅ Đã khởi tạo khung |
+| **1. Trần Đức Mạnh** | Nhóm trưởng | **Luong 0 & 1:** Chuỗi Chi Nhánh, Phân Ca & Chấm Công + Khung Hệ Thống | `config/db.js`, `server.js`, `index.html`<br>`models/branchModel.js`, `models/hrModel.js`<br>`controllers/branchController.js`, `controllers/hrController.js`<br>`routes/branchRoutes.js`, `routes/hrRoutes.js` | ✅ Đã khởi tạo khung |
 | **2. Ý** | Thành viên | **Luong 2 & 5:** Mở Ca POS, Thu Chi Nội Bộ & Đối Soát Két | `models/shiftModel.js`<br>`controllers/shiftController.js`<br>`routes/shiftRoutes.js` | ⏳ Chờ tải lên |
 | **3. Trúc** | Thành viên | **Luong 3 & 4:** Bán Hàng POS, Đặt Online & Pha Chế KDS | `models/orderModel.js`, `models/kdsModel.js`<br>`controllers/orderController.js`, `controllers/kdsController.js`<br>`routes/orderRoutes.js`, `routes/kdsRoutes.js` | ⏳ Chờ tải lên |
 | **4. Linh** | Thành viên | **Luong 6, 7 & 8:** Quản Lý Menu, Nhập/Chuyển Kho & Khuyến Mãi CRM | `models/productModel.js`, `models/inventoryModel.js`, `models/promoModel.js`<br>`controllers/productController.js`, `controllers/inventoryController.js`, `controllers/promoController.js`<br>`routes/productRoutes.js`, `routes/inventoryRoutes.js`, `routes/promoRoutes.js` | ⏳ Chờ tải lên |
